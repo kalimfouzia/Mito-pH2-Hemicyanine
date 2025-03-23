@@ -1,0 +1,5 @@
+the c-value was kept at 5 and block size 1.05 micron in the mitochondria analyzer
+threshold method: local threshold weighted mean
+
+n=1 (3 cells)
+cells used: HEK293T 
